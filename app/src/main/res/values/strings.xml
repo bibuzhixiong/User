@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">一步同城</string>
+
+
+    <!--菜单-->
+    <string name="open">drawer_open</string>
+    <string name="close">drawer_close</string>
+    <!--网络-->
+    <string name="load_empty">这里还木有数据哦!</string>
+    <string name="error_fail">数据加载失败</string>
+    <string name="loading">正在加载中...</string>
+    <string name="progressActivityErrorButton">重试</string>
+    <string name="error_network">网络访问错误，请稍后再试</string>
+    <string name="no_net">网络不可用,请检查你的网络</string>
+    <string name="error_button">重试</string>
+</resources>
