@@ -211,7 +211,6 @@ public class MainActivity extends BaseActivity<MainPrecenter> implements MainCon
     }
     @JavascriptInterface
     public void shareWechat( final  String str,final String isType){
-
         runOnUiThread(new Runnable() {
             @Override
             public void run() {
@@ -603,4 +602,3 @@ public class MainActivity extends BaseActivity<MainPrecenter> implements MainCon
         return result;
     }
 }
-
