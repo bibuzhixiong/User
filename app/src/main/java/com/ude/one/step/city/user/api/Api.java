@@ -69,7 +69,7 @@ public class Api {
             instance = new Api();
         return instance;
     }
-
+//
     //获取订单支付
     public Observable<PayData<WXPayData>> pay(Map<String,RequestBody> bodyMap){
         return service.pay(bodyMap);
